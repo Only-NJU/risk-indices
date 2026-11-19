@@ -1,0 +1,14 @@
+﻿unit,compartment,overall_order
+n/L,Anthroposphere,1.0
+n/L,Coastal_beach,1.0
+n/L,Estuarine,1.0
+n/L,Freshwater_surface,1.0
+n/L,Marine_offshore,1.0
+n/L,Sediment_Soil,2.0
+n/L,Wastewater_Sludge,1.0
+n/kg,Anthroposphere,2.0
+n/kg,Coastal_beach,1.0
+n/kg,Estuarine,2.0
+n/kg,Freshwater_surface,1.0
+n/kg,Sediment_Soil,1.0
+n/kg,Wastewater_Sludge,1.0

@@ -1,0 +1,13 @@
+﻿milestone,unit,metric,n_pre,n_post,p_holm
+China 2021,n/L,BSRI,939,809,0.045
+China 2021,n/L,risk_entropy,2005,1468,0.000217
+China 2021,n/kg,BSRI,541,598,0.067
+China 2021,n/kg,risk_entropy,1148,887,9.26e-16
+EU27 2020,n/L,BSRI,554,413,0.000311
+EU27 2020,n/L,risk_entropy,1376,1044,0.0494
+EU27 2020,n/kg,BSRI,273,392,0.0144
+EU27 2020,n/kg,risk_entropy,674,753,0.000339
+EU27 2024,n/L,BSRI,907,60,0.0121
+EU27 2024,n/L,risk_entropy,2340,80,1.31e-10
+EU27 2024,n/kg,BSRI,603,62,0.0147
+EU27 2024,n/kg,risk_entropy,1363,64,6.27e-06
